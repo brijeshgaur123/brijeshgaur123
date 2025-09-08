@@ -42,7 +42,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://www.linkedin.com/in/brijesh-gaur-00671a32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](bk256635@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-bk256635@gmail.com)
 
 ---
 
