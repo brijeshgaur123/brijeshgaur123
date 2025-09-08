@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--<!-- Banner Image -->
-![Banner](https://i.ibb.co/jfKzq5f/github-banner.png) <!-- Replace with your own banner later -->
+![Banner](![images](https://github.com/user-attachments/assets/1cde6635-0204-4d8c-814d-983f72de8454)
+) <!-- Replace with your own banner later -->
 
 # 👋 Hi, I'm Brijesh Gaur  
 
