@@ -6,13 +6,13 @@
 
 # 👋 Hi, I'm Brijesh Gaur  
 
-⚡ Passionate Learner | 💻 Problem Solver | 🚀 Future Engineer  
+⚡ Passionate Learner | 💻 Problem Solver | 🚀 Aspiring Software Engineer 
 
 📌 *About Me*  
 - 🎓 B.Tech Student at NIT Srinagar (ECE)  
 - 🌱 Currently learning *Java, OOP & DSA*  
 - 💡 Interested in *AI/ML, Full-Stack Development, and Open Source*  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/brijesh-gaur-00671a32b)  
 
 ---
 
