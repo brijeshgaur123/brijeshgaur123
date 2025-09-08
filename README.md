@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--<!-- Banner Image -->
-![Banner]("C:\Users\ajaykumar\OneDrive\Desktop\images.jpeg")
+![Banner](https://github.com/brijeshgaur123/brijeshgaur123/blob/main/images.jpeg)
 ) <!-- Replace with your own banner later -->
 
 # 👋 Hi, I'm Brijesh Gaur  
